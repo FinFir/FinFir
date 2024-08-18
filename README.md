@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @FinFir
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning Web DEV
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on APIs
-- 📫 How to reach me DM me
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm cool
 
 <!---
